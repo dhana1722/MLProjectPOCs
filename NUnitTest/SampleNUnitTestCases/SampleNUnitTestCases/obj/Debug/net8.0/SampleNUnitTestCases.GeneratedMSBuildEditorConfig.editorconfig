@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SampleNUnitTestCases
+build_property.RootNamespace = SampleNUnitTestCases
+build_property.ProjectDir = C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\SampleNUnitTestCases\SampleNUnitTestCases\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\SampleNUnitTestCases\SampleNUnitTestCases
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Registers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Registers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Registers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Registers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Registers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dhanasheela.thula/MLPRojects/NUnitTest/SampleNUnitTestCases/SampleNUnitTestCases/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wj5w90igh4

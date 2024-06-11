@@ -1,0 +1,16 @@
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\DemoNunitTest.exe.config
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\DemoNunitTest.exe
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\DemoNunitTest.pdb
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\nunit.framework.dll
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\nunit.framework.legacy.dll
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\nunit.framework.xml
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\nunit.framework.legacy.xml
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\obj\Debug\DemoNunitTest.csproj.AssemblyReference.cache
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\obj\Debug\DemoNunitTest.csproj.CoreCompileInputs.cache
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\obj\Debug\DemoNuni.0527C93B.Up2Date
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\obj\Debug\DemoNunitTest.exe
+C:\Users\dhanasheela.thula\MLPRojects\NUnitTest\DemoNunitTest\DemoNunitTest\obj\Debug\DemoNunitTest.pdb

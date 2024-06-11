@@ -1,0 +1,50 @@
+﻿@page
+@model SampleNUnitTestCases.Views.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Register</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Register.Id" />
+            <div class="form-group">
+                <label asp-for="Register.Email" class="control-label"></label>
+                <input asp-for="Register.Email" class="form-control" />
+                <span asp-validation-for="Register.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.Password" class="control-label"></label>
+                <input asp-for="Register.Password" class="form-control" />
+                <span asp-validation-for="Register.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.UserName" class="control-label"></label>
+                <input asp-for="Register.UserName" class="form-control" />
+                <span asp-validation-for="Register.UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Register.City" class="control-label"></label>
+                <input asp-for="Register.City" class="form-control" />
+                <span asp-validation-for="Register.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

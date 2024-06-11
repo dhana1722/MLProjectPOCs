@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\employeewebapllication2\\employeewebapllication2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\models\\employeesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\models\\employeesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\employeewebapllication2\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5555CEFA-C51E-4663-8BC2-5A0B1455FE79}|EmployeeWebApllication2\\EmployeeWebApllication2.csproj|solutionrelative:employeewebapllication2\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 353,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Signup.aspx.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Signup.aspx.cs",
+              "RelativeToolTip": "EmployeeWebApllication2\\Signup.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:45:26.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Signup.aspx",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Signup.aspx",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Signup.aspx",
+              "RelativeToolTip": "EmployeeWebApllication2\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T07:31:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Default.aspx",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Default.aspx",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Default.aspx",
+              "RelativeToolTip": "EmployeeWebApllication2\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T06:44:13.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Contact.aspx",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Contact.aspx",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Contact.aspx",
+              "RelativeToolTip": "EmployeeWebApllication2\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T06:43:54.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Site.Master",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Site.Master",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Site.Master",
+              "RelativeToolTip": "EmployeeWebApllication2\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T06:42:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeSignup.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Models\\EmployeeSignup.cs",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Models\\EmployeeSignup.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Models\\EmployeeSignup.cs",
+              "RelativeToolTip": "EmployeeWebApllication2\\Models\\EmployeeSignup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:06:17.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Login.aspx",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Login.aspx",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Login.aspx",
+              "RelativeToolTip": "EmployeeWebApllication2\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T06:51:15.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\Site.Mobile.Master",
+              "RelativeToolTip": "EmployeeWebApllication2\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T06:45:20.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\About.aspx",
+              "RelativeDocumentMoniker": "EmployeeWebApllication2\\About.aspx",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\EmployeeWebApllication2\\EmployeeWebApllication2\\About.aspx",
+              "RelativeToolTip": "EmployeeWebApllication2\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T06:48:21.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

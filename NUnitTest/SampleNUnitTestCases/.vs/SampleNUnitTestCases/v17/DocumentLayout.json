@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A26060A5-47F2-4104-8584-020D976B132D}|EmployeeUnitTest\\EmployeeUnitTest.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\employeeunittest\\controller\\employeenunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26060A5-47F2-4104-8584-020D976B132D}|EmployeeUnitTest\\EmployeeUnitTest.csproj|solutionrelative:employeeunittest\\controller\\employeenunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\services\\registersl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\services\\registersl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\models\\registercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\models\\registercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\registers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\registers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\registers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\registers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\registers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\registers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\services\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\services\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\migrations\\20240603105909_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\migrations\\20240603105909_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\registers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\registers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|c:\\users\\dhanasheela.thula\\mlprojects\\nunittest\\samplenunittestcases\\samplenunittestcases\\views\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136E830-B5F9-446C-9F64-26194464D77B}|SampleNUnitTestCases\\SampleNUnitTestCases.csproj|solutionrelative:samplenunittestcases\\views\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\appsettings.json",
+              "RelativeToolTip": "SampleNUnitTestCases\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T13:39:41.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Models\\SignUp.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Models\\SignUp.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Models\\SignUp.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Models\\SignUp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:06:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Program.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Program.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Program.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:00:33.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Controllers\\RegistersController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:28:04.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeNUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\EmployeeUnitTest\\Controller\\EmployeeNUnitTest.cs",
+              "RelativeDocumentMoniker": "EmployeeUnitTest\\Controller\\EmployeeNUnitTest.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\EmployeeUnitTest\\Controller\\EmployeeNUnitTest.cs",
+              "RelativeToolTip": "EmployeeUnitTest\\Controller\\EmployeeNUnitTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:05:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterSL.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Services\\RegisterSL.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Services\\RegisterSL.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Services\\RegisterSL.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Services\\RegisterSL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:05:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Models\\RegisterContext.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Models\\RegisterContext.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Models\\RegisterContext.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Models\\RegisterContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:05:00.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:05:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRegister.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Services\\IRegister.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Services\\IRegister.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Services\\IRegister.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Services\\IRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:05:52.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Registers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Index.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Registers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T12:21:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Registers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Create.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Registers\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:38:50.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Registers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Edit.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Registers\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:13:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Details.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Details.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:33:00.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240603105909_initialcreation.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Migrations\\20240603105909_initialcreation.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Migrations\\20240603105909_initialcreation.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Migrations\\20240603105909_initialcreation.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Migrations\\20240603105909_initialcreation.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIBJwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:59:09.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Index.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:33:01.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Edit.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:33:00.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:45:45.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:45:42.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Registers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Registers\\Delete.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Registers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:45:31.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:45:49.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:45:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Delete.cshtml",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T11:33:01.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Edit.cshtml.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:00.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Details.cshtml.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:00.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Delete.cshtml.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:01.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Index.cshtml.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:01.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "SampleNUnitTestCases\\Views\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhanasheela.thula\\MLPRojects\\NUnitTest\\SampleNUnitTestCases\\SampleNUnitTestCases\\Views\\Create.cshtml.cs",
+              "RelativeToolTip": "SampleNUnitTestCases\\Views\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:33:00.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
